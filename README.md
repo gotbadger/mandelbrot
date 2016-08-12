@@ -1,5 +1,5 @@
 # mandelbrot
-mandelbrot in go
+Mandelbrot in go. Image is drawn to the terminal so you will need to be using iTerm2
 
 
 ### Run:
@@ -35,6 +35,6 @@ mandelbrot -x0=-0.745 -x1=-0.7 -y0=0.275 -y1=0.3 -step=0.00003 -i=200
 ```
 
 
-### Example Output
+### Output
 
-img here!
+![img](https://raw.githubusercontent.com/gotbadger/mandelbrot/master/out.png)
